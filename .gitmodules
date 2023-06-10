@@ -1,0 +1,3 @@
+[submodule "004_Yoro_test_Movie/yolov5"]
+    path = 004_Yoro_test_Movie/yolov5
+    url = https://github.com/Tsora1216/004_Yoro_test-Movie-.git
