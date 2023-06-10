@@ -13,6 +13,9 @@
   * [１月の活動](01_activity_01.md)
   * [２月の活動](01_activity_02.md)
   * [３月の活動](01_activity_03.md)
+
+  git submodule add https://github.com/Tsora1216/004_Yoro_test-Movie-.git 004_Yoro_test_Movie/yolov5
+
 * [研究・論文](02_paper.md)
   * [実験01](02_paper_01.md)
   * [実験02](02_paper_02.md)
