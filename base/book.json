@@ -1,0 +1,12 @@
+{
+  "title":"学生ハンズオン ~ChatGPTを使ったLINE BotをAzureで作成してみよう！~",
+  "description":"学生ハンズオン ~ChatGPTを使ったLINE BotをAzureで作成してみよう！~",
+  "language":"ja",
+  "plugins":[
+    "anchors",
+    "hide-published-with",
+    "copy-code-button",
+    "intopic-toc",
+    "back-to-top-button"
+  ]
+}
